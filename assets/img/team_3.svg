@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e9ecef"/>
+      <stop offset="1" stop-color="#f7f7f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <circle cx="600" cy="330" r="190" fill="#ffffff" stroke="#e0e0e0" stroke-width="6"/>
+  <circle cx="600" cy="300" r="110" fill="#e6c7a6" stroke="#c9a98b" stroke-width="4"/>
+  <path d="M470 280c40-90 220-90 260 0" fill="#2d2d2d"/>
+  <circle cx="560" cy="295" r="12" fill="#111"/>
+  <circle cx="640" cy="295" r="12" fill="#111"/>
+  <path d="M545 350c40 40 70 40 110 0" fill="none" stroke="#7a3a3a" stroke-width="10" stroke-linecap="round"/>
+  <text x="600" y="650" font-size="40" text-anchor="middle" fill="#1f1f1f" font-family="Inter, Arial">Sofia Reyes, RDH</text>
+</svg>
