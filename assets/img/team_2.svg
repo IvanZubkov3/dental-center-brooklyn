@@ -12,5 +12,5 @@
   <circle cx="560" cy="295" r="12" fill="#111"/>
   <circle cx="640" cy="295" r="12" fill="#111"/>
   <path d="M545 350c40 40 70 40 110 0" fill="none" stroke="#7a3a3a" stroke-width="10" stroke-linecap="round"/>
-  <text x="600" y="650" font-size="40" text-anchor="middle" fill="#1f1f1f" font-family="Inter, Arial">Dr. Liam Parker</text>
+
 </svg>
